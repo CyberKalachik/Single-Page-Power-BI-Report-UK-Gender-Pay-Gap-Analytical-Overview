@@ -26,7 +26,7 @@ ________________________________________
 - 📉 Mean pay gaps consistently exceed median gaps, indicating that inequality is driven by top earners rather than the typical employee.
 - 💰 Bonus eligibility gaps persist over time, even when overall eligibility increases.
 - 🧱 Vertical segregation is clearly visible: women are overrepresented in lower pay quartiles and underrepresented in the top quartile.
-- 🏭 Sectoral differences are significant — education and health-related sectors show higher female representation, while construction, energy, and transport remain highly male-dominated.
+- 🏭 Sectoral differences are significant.
 - ⚖️ True pay parity is rare; most companies fall into moderate or high pay gap categories.
 ________________________________________
 
