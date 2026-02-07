@@ -2,7 +2,7 @@
 
 ## 📌 Project overview
 
-This **single-page Power BI report** analyzes gender pay inequality in the UK using official government data.
+This **single-page Power BI report** analyzes gender pay differences in the UK using official government data.
 The project focuses on pay gaps, bonus eligibility, and gender representation across pay quartiles, with a strong emphasis on analytical storytelling rather than standalone visuals.
 
 ## 🔗 Data source:
